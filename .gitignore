@@ -1,0 +1,4 @@
+# 忽略虚拟环境文件夹
+.venv/
+# 忽略 Streamlit 的 secrets 文件
+.streamlit/secrets.toml
